@@ -1,0 +1,30 @@
+// ignore_for_file: constant_identifier_names
+
+const String APP_ROUTE_LOGIN = '/login';
+const String APP_ROUTE_FORGOT_PASSWORD = '/forgot-password';
+const String APP_ROUTE_OTP_SCREEN = '/otp-verification';
+const String APP_ROUTE_NEW_PASSWORD_SCREEN = '/new-password';
+const String APP_ROUTE_APPOINTMENT_DETAIL = '/appointment-detail';
+const String APP_ROUTE_ADD_EDIT_APPOINTMENT = '/add-edit-appointment';
+const String APP_ROUTE_SERVICE_DETAIL = '/service-detail';
+const String APP_ROUTE_ADD_EDIT_SERVICE = '/add-edit-service';
+const String APP_ROUTE_CUSTOMER_DETAIL = '/customer-detail';
+const String APP_ROUTE_ADD_EDIT_CUSTOMER = '/add-edit-customer';
+const String APP_ROUTE_MANAGE_CUSTOMER_ADDRESS = '/manage-customer-address';
+// const String APP_ROUTE_CONTACT = '/contact';
+const String APP_ROUTE_MY_ACCOUNT = '/my-account';
+const String APP_ROUTE_EDIT_PROFILE = '/edit-profile';
+const String APP_ROUTE_CHANGE_PASSWORD = '/change-password';
+const String APP_ROUTE_MANAGE_ADDRESS = '/manage-address';
+const String APP_ROUTE_ADD_EDIT_ADDRESS = '/add-edit-address';
+const String APP_ROUTE_ADD_EDIT_CUSTOMER_ADDRESS = '/add-edit-customer-address';
+const String APP_ROUTE_SHOP = '/shop';
+const String APP_ROUTE_ADD_EDIT_BRAND = '/add-edit-brand';
+const String APP_ROUTE_BRAND_DETAIL = '/brand-detail';
+const String APP_ROUTE_ADD_EDIT_CATEGORY = '/add-edit-category';
+const String APP_ROUTE_CATEGORY_DETAIL = '/category-detail';
+const String APP_ROUTE_ADD_EDIT_PRODUCT = '/add-edit-product';
+const String APP_ROUTE_PRODUCT_DETAIL = '/product-detail';
+const String APP_ROUTE_SUPPORT_SCREEN = '/support-details';
+const String APP_ROUTE_TEMPLATES = '/templates';
+const String APP_ROUTE_ADD_EDIT_TEMPLATE_SCREEN = '/add-edit-template';
